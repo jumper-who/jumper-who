@@ -1,4 +1,6 @@
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀ ⠀⠀⠀![](https://komarev.com/ghpvc/?username=melodryll&label=saplings&color=FFBE91)
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀ ⠀⠀⠀![](https://komarev.com/ghpvc/?username=melodryll&label=saplings&color=F1C376)
+
+⠀⠀⠀
 
 
 </p>
@@ -8,9 +10,12 @@
  
 </p>
 
-<h1 class="center-text"> </h1>
 ⠀⠀⠀
  <div align="center">
-   wip
+   
+
+
 
 ⠀⠀⠀
+[_𝒜tabook_](https://stringtheocracy.atabook.org/?page=1) <img width="20" height="20" alt="7sy6jb" src="https://github.com/user-attachments/assets/b8e9aa84-0f22-40b5-95ea-90fb7ec0f443" />
+[_ℛentry_](https://rentry.co/stringtheocracys)
