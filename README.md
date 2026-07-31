@@ -14,7 +14,11 @@
  <div align="center">
    
 
-
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31e6y6vqkyvik4cj27ulxhwn2aru&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=e9b361&bar_color_cover=false">
+  </a>
+</p>
 
 ⠀⠀⠀
 [_𝒜tabook_](https://stringtheocracy.atabook.org/?page=1) <img width="20" height="20" alt="7sy6jb" src="https://github.com/user-attachments/assets/b8e9aa84-0f22-40b5-95ea-90fb7ec0f443" />
