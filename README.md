@@ -58,23 +58,3 @@
 </p>
 
 [_𝒜tabook_](https://melodryll.atabook.org) <img width="20" height="20" alt="tumblr_53432c47df95ffb03be326b9126a2eaa_7f584ea8_75" src="https://github.com/user-attachments/assets/2ce04264-3e7f-499c-bc0a-692daa86e8e7" /> [_ℛentry_](https://rentry.co/melodryll)
-
-⠀⠀⠀ 
-<details>
-  <summary>silly imgs</summary>
-
-⠀⠀⠀ 
-
-<img width="618" height="358" alt="PikaPika_-_Google_Chrome_28_8_2021_20_41_03_3_LI" src="https://github.com/user-attachments/assets/794c3cbb-3cba-48a7-b0a4-2538e411b12d" />
-
-
-⠀⠀⠀ 
-
-<img width="500" height="364" alt="melody pelota!!" src="https://github.com/user-attachments/assets/f5c0ef32-6456-428e-98eb-1a5fb8072829" />
-
-
-⠀⠀⠀ 
-
-<img width="478" height="123" alt="XDDD" src="https://github.com/user-attachments/assets/a9289d90-d87f-4dd6-aa66-f48f008990fe" />
-
-</details>
