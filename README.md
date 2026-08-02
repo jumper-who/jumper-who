@@ -1,4 +1,9 @@
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀ ⠀⠀⠀![](https://komarev.com/ghpvc/?username=melodryll&label=saplings&color=F1C376)
+</p>
+
+<p align="center">
+  <a href="https://hits.sh/github.com/melodryll/"><img alt="Hits" src="https://hits.sh/github.com/melodryll.svg?label=saplings&color=ffe850&labelColor=ff7734"/></a>
+ 
+</p>
 
 ⠀⠀⠀
 
