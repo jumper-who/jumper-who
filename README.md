@@ -8,18 +8,24 @@
 </p>
 
 <p align="center">
-  <img src<img width="500" height="36" alt="tumblr_4eb6a9e30fe69555c157a3bf0a53511c_c2a8d761_400" src="https://github.com/user-attachments/assets/80e67c25-5257-467c-9940-c6d17580d2f9" />
+  <img src<img width="500" height="29" alt="tumblr_4eb6a9e30fe69555c157a3bf0a53511c_c2a8d761_400" src="https://github.com/user-attachments/assets/80e67c25-5257-467c-9940-c6d17580d2f9" />
  
 </p>
 
+⠀⠀⠀
 </p>
 
 <p align="center">
-  <img src<img width="500" height="540" alt="131_sin_titulo_20260724082159 - Editado" src="https://github.com/user-attachments/assets/4333aab9-7939-4420-ae8e-fee133d7cee0" />
+  <img src<img width="500" height="500" alt="131_sin_titulo_20260724082159 - Editado" src="https://github.com/user-attachments/assets/4333aab9-7939-4420-ae8e-fee133d7cee0" />
  
 </p>
 ⠀⠀⠀
-⠀⠀⠀
+
+<p align="center">
+  <img src<img width="500" height="29" alt="tumblr_4eb6a9e30fe69555c157a3bf0a53511c_c2a8d761_400" src="https://github.com/user-attachments/assets/80e67c25-5257-467c-9940-c6d17580d2f9" />
+ 
+</p>⠀⠀⠀
+⠀⠀
 </p>
 
 <p align="center">
