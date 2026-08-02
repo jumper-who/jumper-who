@@ -5,6 +5,7 @@
  
 </p>
 
+
 </p>
 
 <p align="center">
@@ -27,7 +28,6 @@
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31e6y6vqkyvik4cj27ulxhwn2aru&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=ffb300&bar_color_cover=false">
   </a>
 </p>
-⠀⠀⠀
 
 
 [_𝒜tabook_](https://melodryll.atabook.org) <img width="20" height="20" alt="7sy6jb" src="https://github.com/user-attachments/assets/b8e9aa84-0f22-40b5-95ea-90fb7ec0f443" />
