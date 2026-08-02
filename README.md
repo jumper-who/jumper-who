@@ -1,7 +1,7 @@
 </p>
 
 <p align="center">
-  <img width="20" height="20" alt="gzsjwp" src="https://github.com/user-attachments/assets/f0a9b30b-c3b2-4700-b02e-8c429d179056" /> <a href="https://hits.sh/github.com/melodryll/"><img alt="Hits" src="https://hits.sh/github.com/melodryll.svg?label=saplings&color=ffe850&labelColor=ff7734"/></a> <img width="20" height="20" alt="tumblr_ec5aee9236d7a05336bcbeddfdb4b712_5580f6ef_75" src="https://github.com/user-attachments/assets/130b1bae-9d39-4621-a6c3-32a940eb6292" />
+  <img width="20" height="20" alt="gzsjwp" src="https://github.com/user-attachments/assets/f0a9b30b-c3b2-4700-b02e-8c429d179056" /> <a href="https://hits.sh/github.com/melodryll/"><img alt="Hits" src="https://hits.sh/github.com/melodryll.svg?label=saplings&color=ffe850&labelColor=ff7734"/></a>
 
 
  
