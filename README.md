@@ -4,10 +4,17 @@
    <a href="https://hits.sh/github.com/melodryll/"><img alt="Hits" src="https://hits.sh/github.com/melodryll.svg?label=saplings&color=ffe850&labelColor=ff7734"/></a> <img width="20" height="20" alt="gzsjwp" src="https://github.com/user-attachments/assets/f0a9b30b-c3b2-4700-b02e-8c429d179056" />
 
 
+⠀⠀⠀
+
  
 </p>
 
+
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFE850&center=true&vCenter=true&width=435&lines=%22wow%2C+you+actually+showed+up.%22" alt="Typing SVG" /></a>
+
 ⠀⠀⠀
+
 </p>
 
 <p align="center">
@@ -30,10 +37,6 @@
 </p>⠀⠀⠀
 ⠀⠀
 </p>
-
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFE850&center=true&vCenter=true&width=435&lines=%22wow%2C+you+actually+showed+up.%22" alt="Typing SVG" /></a>
-
    ⠀⠀⠀
  
 </p>
