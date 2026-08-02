@@ -33,6 +33,8 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFE850&center=true&vCenter=true&width=435&lines=%22wow%2C+you+actually+showed+up.%22" alt="Typing SVG" /></a>
+
+   ⠀⠀⠀
  
 </p>
 <p align="center">
