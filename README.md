@@ -6,7 +6,8 @@
 </p>
 
 <p align="center">
-  <img src<img width="612" height="458" alt=<img width="736" height="572" alt="131_sin_titulo_20260724082159" src="https://github.com/user-attachments/assets/1f530cda-ae87-41d3-8323-4777bbe08551" />
+  <img src<img width="736" height="572" alt="131_sin_titulo_20260724082159 - Editado" src="https://github.com/user-attachments/assets/4333aab9-7939-4420-ae8e-fee133d7cee0" />
+ />
  
 </p>
 
